@@ -13,7 +13,7 @@ Because each stage is completely independent of the previous one,
 IntelliJ might show some warnings about duplicated code between 
 the stages.
 
-## Stage 1
+## Stage 1/7
 
 [click here to see description @ JetBrains Academy](https://hyperskill.org/projects/83/stages/457/implement)
 
@@ -28,7 +28,7 @@ just execute this:
     Definition:
     dog
 
-## Stage 2
+## Stage 2/7
 
 [click here to see description @ JetBrains Academy](https://hyperskill.org/projects/83/stages/458/implement)
 
@@ -44,7 +44,7 @@ just execute this:
     
     Your answer is right!
 
-## Stage 3
+## Stage 3/7
 
 [click here to see description @ JetBrains Academy](https://hyperskill.org/projects/83/stages/459/implement)
 
@@ -64,7 +64,7 @@ just execute this:
     bar     
     Wrong. The right answer is "foo".
 
-## Stage 4
+## Stage 4/7
 
 Here we check for duplicates.
 
@@ -91,7 +91,7 @@ just execute this:
     foo
     Wrong. The right answer is "f00", but your definition is correct for "test1".
 
-## Stage 5
+## Stage 5/7
 
 We add a menu, so the user can choose his next action.
 
@@ -112,13 +112,13 @@ just execute this:
     exit
     Bye bye!
 
-## Stage 6 
+## Stage 6/7
 
 We add statistics, so the user can check which cards he missed the most.
 
 [click here to see description @ JetBrains Academy](https://hyperskill.org/projects/83/stages/462/implement)
 
-just execute this (one line):
+just execute this:
 
     gradle -PmainClass=stage6.MainKt run --console=plain
     
@@ -148,13 +148,13 @@ just execute this (one line):
     exit
     Bye bye!
 
-## Stage 7
+## Stage 7/7
 
 We add import and export to files, so cards can be stored and reused.
 
 [click here to see description @ JetBrains Academy](https://hyperskill.org/projects/83/stages/463/implement)
 
-just execute this (one line):
+just execute this:
 
     gradle -PmainClass=stage6.MainKt run --console=plain
 
